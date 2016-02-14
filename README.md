@@ -22,7 +22,8 @@ Some things that already work well:
   - [x] Support golang.com/x/mobile backend
   - [ ] Support additional backends (glfw)
 
-- More non-rendering things.
+- More non-rendering things, maybe?
+- More docs, examples.
 
 
 ## License
