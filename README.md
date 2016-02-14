@@ -4,8 +4,9 @@ Game engine toolkit for Go.
 
 **Status**: Alpha. (No stability guarantee)
 
-Some good stuff in here, but fairly specific to my own projects at the moment.  
-It may generalize more over time.
+Some good stuff in here, but fairly specific to my own projects at the moment.
+It may generalize more over time. Largely factored out of 
+[shazow/linerage3d](https://github.com/shazow/linerage3d).
 
 Some things that already work well:
 
