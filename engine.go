@@ -5,9 +5,9 @@ import (
 	"time"
 
 	mgl "github.com/go-gl/mathgl/mgl32"
-	"github.com/shazow/gameblocks/camera"
-	"github.com/shazow/gameblocks/control"
-	"github.com/shazow/gameblocks/loader"
+	"github.com/shazow/go-gameblocks/camera"
+	"github.com/shazow/go-gameblocks/control"
+	"github.com/shazow/go-gameblocks/loader"
 	"golang.org/x/mobile/event/key"
 	"golang.org/x/mobile/event/size"
 	"golang.org/x/mobile/event/touch"

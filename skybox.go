@@ -2,7 +2,7 @@ package gameblocks
 
 import (
 	mgl "github.com/go-gl/mathgl/mgl32"
-	"github.com/shazow/gameblocks/loader"
+	"github.com/shazow/go-gameblocks/loader"
 	"golang.org/x/mobile/gl"
 )
 

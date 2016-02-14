@@ -6,8 +6,8 @@ import (
 	"golang.org/x/mobile/gl"
 
 	mgl "github.com/go-gl/mathgl/mgl32"
-	"github.com/shazow/gameblocks/camera"
-	"github.com/shazow/gameblocks/loader"
+	"github.com/shazow/go-gameblocks/camera"
+	"github.com/shazow/go-gameblocks/loader"
 )
 
 type FrameContext struct {

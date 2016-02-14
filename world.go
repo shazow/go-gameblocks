@@ -4,8 +4,8 @@ import (
 	"time"
 
 	mgl "github.com/go-gl/mathgl/mgl32"
-	"github.com/shazow/gameblocks/control"
-	"github.com/shazow/gameblocks/loader"
+	"github.com/shazow/go-gameblocks/control"
+	"github.com/shazow/go-gameblocks/loader"
 )
 
 type Vector interface {
