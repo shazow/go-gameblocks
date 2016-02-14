@@ -2,6 +2,8 @@
 
 Game engine toolkit for Go.
 
+**Status**: Alpha. (No stability guarantee)
+
 Some good stuff in here, but fairly specific to my own projects at the moment.  
 It may generalize more over time.
 
@@ -18,6 +20,8 @@ Some things that already work well:
 - Multiple rendering backends
   - [x] Support golang.com/x/mobile backend
   - [ ] Support additional backends (glfw)
+
+- More non-rendering things.
 
 
 ## License
